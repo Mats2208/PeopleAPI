@@ -163,3 +163,4 @@ C:\Users\mateo\RiderProjects\PeopleAPI\PeopleAPI\obj\Debug\net9.0\PeopleAPI.pdb
 C:\Users\mateo\RiderProjects\PeopleAPI\PeopleAPI\obj\Debug\net9.0\PeopleAPI.genruntimeconfig.cache
 C:\Users\mateo\RiderProjects\PeopleAPI\PeopleAPI\obj\Debug\net9.0\ref\PeopleAPI.dll
 C:\Users\mateo\RiderProjects\PeopleAPI\PeopleAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mateo\RiderProjects\PeopleAPI\PeopleAPI\obj\Debug\net9.0\PeopleAPI.sourcelink.json
